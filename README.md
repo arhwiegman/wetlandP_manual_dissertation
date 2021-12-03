@@ -1,2 +1,3 @@
 "# wetlandP_manual_dissertation" 
-[Documentation and User Manual](wetlandP_manual_dissertation/ReadMe.html)
+
+[Documentation and User Manual](https://github.com/arhwiegman/wetlandP_manual_dissertation/wetlandP_manual_dissertation/main/ReadMe.html)
